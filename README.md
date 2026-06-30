@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Venky</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkat-labs&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### About Me
 
-I'm a final-year ECE student passionate about software engineering and artificial intelligence. I enjoy building full-stack applications and exploring how AI can be applied to solve real-world problems. Currently focused on the MERN stack, with hands-on experience in computer vision through a past internship.
+I'm a final-year ECE student passionate about software engineering and artificial intelligence. I enjoy building full-stack applications and exploring how AI can be applied to solve real-world problems. Currently focused on the MERN stack, DevOps and Artificial Intelligence.
 
 ---
 
@@ -30,6 +26,13 @@ I'm a final-year ECE student passionate about software engineering and artificia
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
+**DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -41,37 +44,26 @@ I'm a final-year ECE student passionate about software engineering and artificia
 
 ### Featured Projects
 
+**Zoom Clone**
+A real-time video conferencing application built with Node.js, MongoDB Atlas, and React, replicating core video calling functionality.
+
+**RAG API** *(coming soon)*
+Built a locally-hosted Retrieval-Augmented Generation pipeline with semantic search
+(ChromaDB) and on-device LLM inference (Ollama), containerized via Docker and orchestrated on Kubernetes
+(Minikube). Supports multiple independent user profiles and automated CI/CD testing via GitHub Actions.
+
 **[Spring Boot Todo REST API](https://github.com/venkat-labs/SpringBoot)**
 A secure REST API with JWT-based authentication, Spring Security, BCrypt, Spring Data JPA/Hibernate, MySQL, and Swagger documentation.
-
-**Hyperspectral Crop Disease Detection**
-An unsupervised ensemble approach (One-Class SVM, Isolation Forest, PCA Reconstruction Error) for pre-symptomatic plant disease detection using hyperspectral imaging.
-
-**Drone Detection System**
-A real-time object detection and tracking pipeline using YOLOv5, Deep SORT, and TensorRT.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkat-labs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-labs&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-labs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
 ### Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/m-venkatesh-murugan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="venkatesh.m.murugan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
